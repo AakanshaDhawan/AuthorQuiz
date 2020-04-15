@@ -37,6 +37,10 @@
    width: 100%;
 }
 
+.continue {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 .answer {
   background-color: #F0F7FD;
   border-color: #D0E3F0;
